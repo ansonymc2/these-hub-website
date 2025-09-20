@@ -1,0 +1,68 @@
+{
+  "articles": [
+    {
+      "title": "退役運動員頻傳破產悲劇，一個新平台如何扭轉局面？",
+      "date": "2025-08-28",
+      "author": "何承鍇",
+      "source": "華爾街見聞 - 生活家",
+      "image": "/content/images/article4_resized.png",
+      "summary": "探討退役運動員面臨的財務困境，以及新興平台如何為他們提供可持續的職業轉型解決方案。",
+      "link": "https://wallstreetcn.com/life-and-art/articles/cn/3754357"
+    },
+    {
+      "title": "在檳城看香港文體旅發展模型",
+      "date": "2025-08-28",
+      "author": "郭昊展",
+      "source": "華爾街見聞 - 生活家",
+      "image": "/content/images/article1_cropped.png",
+      "summary": "從檳城的文化旅遊發展經驗，探討香港文體旅發展模型的創新路徑和實踐策略。",
+      "link": "https://wallstreetcn.com/life-and-art/articles/cn/3753978"
+    },
+    {
+      "title": "從「集體趕集」到「私人微服出巡｣：小包團如何重塑旅遊的想像？",
+      "date": "2025-08-28",
+      "author": "陳煜明",
+      "source": "華爾街見聞 - 生活家",
+      "image": "/content/images/article2_cropped.png",
+      "summary": "分析小包團旅遊模式的興起，探討個性化旅遊體驗如何重新定義現代旅遊業的發展方向。",
+      "link": "https://wallstreetcn.com/life-and-art/articles/cn/3754180"
+    },
+    {
+      "title": "家族辦公室為何青睞香港",
+      "date": "2025-08-28",
+      "author": "何承鍇",
+      "source": "華爾街見聞 - 生活家",
+      "image": "/content/images/article3_cropped.png",
+      "summary": "深入分析香港作為國際金融中心的優勢，探討家族辦公室選擇香港的核心因素和發展趨勢。",
+      "link": "https://wallstreetcn.com/life-and-art/articles/cn/3747304"
+    }
+  ],
+  "news": [
+    {
+      "title": "廉署偕多方合作組成「體育管治誠信聯盟」 共同持續提升良好管治環境",
+      "date": "2025-08-28",
+      "source": "香港特別行政區廉政公署（廉署）網頁",
+      "image": "/content/images/news1_cropped.png",
+      "summary": "廉政公署與多個體育組織合作成立「體育管治誠信聯盟」，致力提升香港體育界的管治水平和誠信環境。",
+      "link": "https://www.icac.org.hk/tc/p/press/index_id_2157.html"
+    },
+    {
+      "title": "一文看清「M」品牌申請加辣   球員陣容不符計劃書將面臨削資助",
+      "date": "2025-08-24",
+      "source": "hk01",
+      "image": "/content/images/news2_cropped.png",
+      "summary": "政府對「M」品牌申請條件進行調整，球隊如球員陣容不符合計劃書要求將面臨資助削減的風險。",
+      "link": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60269641/%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85-m-%E5%93%81%E7%89%8C%E7%94%B3%E8%AB%8B%E5%8A%A0%E8%BE%A3-%E7%90%83%E5%93%A1%E9%99%A3%E5%AE%B9%E4%B8%8D%E7%AC%A6%E8%A8%88%E5%8A%83%E6%9B%B8%E5%B0%87%E9%9D%A2%E8%87%A8%E5%89%8A%E8%B3%87%E5%8A%A9"
+    },
+    {
+      "title": "羅淑佩山頂探巨型米奇、大熊貓   示範五大萌爆打卡甫士",
+      "date": "2025-08-28",
+      "source": "hk01",
+      "image": "/content/images/news3_original.jpeg",
+      "summary": "旅遊事務專員羅淑佩親自示範山頂新景點的打卡攻略，推廣香港文旅融合的創新體驗項目。",
+      "link": "https://www.hk01.com/%E6%94%BF%E6%83%85/60270895/%E7%BE%85%E6%B7%91%E4%BD%A9%E5%B1%B1%E9%A0%82%E6%8E%A2%E5%B7%A8%E5%9E%8B%E7%B1%B3%E5%A5%87-%E5%A4%A7%E7%86%8A%E8%B2%93-%E7%A4%BA%E7%AF%84%E4%BA%94%E5%A4%A7%E8%90%8C%E7%88%86%E6%89%93%E5%8D%A1%E7%94%AB%E5%A3%AB"
+    }
+  ],
+  "lastUpdated": "2025-08-28T10:00:00Z",
+  "version": "3.0.0"
+}

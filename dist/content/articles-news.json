@@ -1,0 +1,62 @@
+{
+  "articles": [
+    {
+      "title": "退役運動員頻傳破產悲劇，一個新平台如何扭轉局面？",
+      "date": "2025-08-28",
+      "author": "何承鍇",
+      "source": "華爾街見聞 - 生活家",
+      "image": "/content/images/article4_resized.png",
+      "link": "https://wallstreetcn.com/life-and-art/articles/cn/3754357"
+    },
+    {
+      "title": "在檳城看香港文體旅發展模型",
+      "date": "2025-08-28",
+      "author": "郭昊展",
+      "source": "華爾街見聞 - 生活家",
+      "image": "/content/images/article1_cropped.png",
+      "link": "https://wallstreetcn.com/life-and-art/articles/cn/3753978"
+    },
+    {
+      "title": "從「集體趕集」到「私人微服出巡｣：小包團如何重塑旅遊的想像？",
+      "date": "2025-08-28",
+      "author": "陳煜明",
+      "source": "華爾街見聞 - 生活家",
+      "image": "/content/images/article2_cropped.png",
+      "link": "https://wallstreetcn.com/life-and-art/articles/cn/3754180"
+    },
+    {
+      "title": "家族辦公室為何青睞香港",
+      "date": "2025-08-28",
+      "author": "何承鍇",
+      "source": "華爾街見聞 - 生活家",
+      "image": "/content/images/article3_cropped.png",
+      "link": "https://wallstreetcn.com/life-and-art/articles/cn/3747304"
+    }
+  ],
+  "news": [
+    {
+      "title": "廉署偕多方合作組成「體育管治誠信聯盟」 共同持續提升良好管治環境",
+      "date": "2025-08-28",
+      "source": "香港特別行政區廉政公署（廉署）網頁",
+      "image": "/content/images/news1_cropped.png",
+      "link": "https://www.icac.org.hk/tc/p/press/index_id_2157.html"
+    },
+    {
+      "title": "一文看清「M」品牌申請加辣   球員陣容不符計劃書將面臨削資助",
+      "date": "2025-08-24",
+      "source": "hk01",
+      "image": "/content/images/news2_cropped.png",
+      "link": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60269641/%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85-m-%E5%93%81%E7%89%8C%E7%94%B3%E8%AB%8B%E5%8A%A0%E8%BE%A3-%E7%90%83%E5%93%A1%E9%99%A3%E5%AE%B9%E4%B8%8D%E7%AC%A6%E8%A8%88%E5%8A%83%E6%9B%B8%E5%B0%87%E9%9D%A2%E8%87%A8%E5%89%8A%E8%B3%87%E5%8A%A9"
+    },
+    {
+      "title": "羅淑佩山頂探巨型米奇、大熊貓   示範五大萌爆打卡甫士",
+      "date": "2025-08-28",
+      "source": "hk01",
+      "image": "/content/images/news3_original.jpeg",
+      "link": "https://www.hk01.com/%E6%94%BF%E6%83%85/60270895/%E7%BE%85%E6%B7%91%E4%BD%A9%E5%B1%B1%E9%A0%82%E6%8E%A2%E5%B7%A8%E5%9E%8B%E7%B1%B3%E5%A5%87-%E5%A4%A7%E7%86%8A%E8%B2%93-%E7%A4%BA%E7%AF%84%E4%BA%94%E5%A4%A7%E8%90%8C%E7%88%86%E6%89%93%E5%8D%A1%E7%94%AB%E5%A3%AB"
+    }
+  ],
+  "lastUpdated": "2025-08-28T10:00:00Z",
+  "version": "4.0.0"
+}
+
